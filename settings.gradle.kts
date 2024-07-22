@@ -1,1 +1,1 @@
-rootProject.name = "cycling-carb-planner-frontend"
+rootProject.name = "cycling-carb-planner-backend"
